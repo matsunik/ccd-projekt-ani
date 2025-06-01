@@ -92,3 +92,9 @@ git push
 ![Screenshot 2025-06-01 193422](https://github.com/user-attachments/assets/9d87384a-2009-4e2b-96ef-864693dcbce7)
 
 ![Screenshot 2025-06-01 194050](https://github.com/user-attachments/assets/477d9488-47da-4ae2-a687-2881c94e05b2)
+
+# Pull-request an edlich/education
+
+![Screenshot 2025-06-01 195827](https://github.com/user-attachments/assets/386d6701-4acc-49cb-9b30-0eeb7f23aa6f)
+
+![Screenshot 2025-06-01 195730](https://github.com/user-attachments/assets/7ea5a23e-8673-4677-ad80-0b1945bffc7b)
