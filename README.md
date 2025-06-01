@@ -62,3 +62,13 @@ ccd-projekt-ani/
 ![Screenshot 2025-06-01 180103](https://github.com/user-attachments/assets/0c37d576-9f0b-4559-be3b-600e3728c7cf)
 
 ## Textdatei Änderungen bei hund.txt und katze.txt nicht sichtbar, weil als Binärdatei erkannt in git. Suche nach Lösung...
+
+## Weitere Fragen entstehen beim Machen
+
+![Screenshot 2025-06-01 181610](https://github.com/user-attachments/assets/f002093e-d058-4660-bf68-34a76da84724)
+
+[kann ich mit einigen Buttons in Github dasselbe erreichen, wie mit Befehlen in Powershell?]
+
+[Ich habe dazu ChatGPT befragt, und erfahren, wann man lokal arbeitet und wann in git]
+
+![Screenshot 2025-06-01 181833](https://github.com/user-attachments/assets/82b63266-9be0-418c-a5d4-44d04f67e950)
