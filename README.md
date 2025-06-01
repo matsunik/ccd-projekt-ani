@@ -61,3 +61,7 @@ $ git push```
 ![Screenshot 2025-06-01 170151](https://github.com/user-attachments/assets/4a9e9a56-8fd2-4019-87ef-adecd6738800)
 
 [Ich bekomme einfach die Screenshots nicht aus dem Codeblock herausgelöst]
+
+## Branches erstellen und dann mergen
+
+![Screenshot 2025-06-01 175139](https://github.com/user-attachments/assets/02638502-7b2a-45bb-815c-db613c889e68)
