@@ -73,10 +73,16 @@ ccd-projekt-ani/
 
 ![Screenshot 2025-06-01 181833](https://github.com/user-attachments/assets/82b63266-9be0-418c-a5d4-44d04f67e950)
 
-## Git-Befehle nachgewiesen bisher
+## Folgende Git-Befehle nachgewiesen
+
 git add tiere/katze.txt
+
 git commit -m "Katze ergänzt"
+
 git rm tiere.txt
+
 git mv tiere/hunde.txt tiere/hund.txt
+
 git pull --rebase
+
 git push
