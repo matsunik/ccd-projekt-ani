@@ -88,3 +88,7 @@ git pull --rebase
 git push
 
 ## Mit Zeitreisen experimentieren
+
+![Screenshot 2025-06-01 193422](https://github.com/user-attachments/assets/9d87384a-2009-4e2b-96ef-864693dcbce7)
+
+![Screenshot 2025-06-01 194050](https://github.com/user-attachments/assets/477d9488-47da-4ae2-a687-2881c94e05b2)
