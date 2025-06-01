@@ -33,4 +33,4 @@ ccd-projekt-ani/
     
 ![Screenshot 2025-06-01 165225](https://github.com/user-attachments/assets/20eea0c9-e3e7-4183-9a0c-a7ada46247a0)
 
-[Mit get diff Textdatei ändern, Text löschen und Text hinzufügen]
+[Mit git diff Textdatei ändern, Text löschen und Text hinzufügen]
