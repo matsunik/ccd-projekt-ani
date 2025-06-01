@@ -60,3 +60,5 @@ ccd-projekt-ani/
 ![Screenshot 2025-06-01 175600](https://github.com/user-attachments/assets/05097f7e-b385-4fc6-90f2-e844f1256ee4)
 
 ![Screenshot 2025-06-01 180103](https://github.com/user-attachments/assets/0c37d576-9f0b-4559-be3b-600e3728c7cf)
+
+## Textdatei Änderungen bei hund.txt und katze.txt nicht sichtbar, weil als Binärdatei erkannt in git. Suche nach Lösung...
