@@ -35,11 +35,11 @@ ccd-projekt-ani/
 
 [Mit git diff Textdatei ändern, Text löschen und Text hinzufügen]
 
-
-![Screenshot 2025-06-01 165225](https://github.com/user-attachments/assets/ecf1ed56-be6b-4464-b635-9f727b07ec12)
-
+## Fehlerbehebung
 
 ![Screenshot 2025-06-01 170151](https://github.com/user-attachments/assets/70ea5e57-5af3-4b9b-a36a-7a0c578d8dee)
+
+![Screenshot 2025-06-01 171558](https://github.com/user-attachments/assets/a0e05b65-8694-455f-a304-0c2d8b4a1d7b)
 
 ###  Konflikt beim Push gelöst
 #### Die Textdateiänderung in giraffe war noch nicht committed. Daher der Konflikt zwischen dem Stand im github repositpry und der lokalen Speicherung. 
