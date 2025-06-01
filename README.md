@@ -8,3 +8,5 @@ Testprojekt, um Github und die Versionskontrolle auszuprobieren im Rahmen des BH
 ![Screenshot 2025-06-01 125011](https://github.com/user-attachments/assets/a6e0d4b7-fd5b-4f5b-aaf8-45610659dc1c)
 
 ![Screenshot 2025-06-01 125510](https://github.com/user-attachments/assets/fcb95608-7c47-4e37-877d-95b690fe7e44)
+
+![Screenshot 2025-06-01 130149](https://github.com/user-attachments/assets/01943818-22e3-4877-87ef-f42790325880)
