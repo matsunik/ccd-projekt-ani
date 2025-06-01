@@ -13,3 +13,12 @@ Testprojekt, um Github und die Versionskontrolle auszuprobieren im Rahmen des BH
 
 ![Screenshot 2025-06-01 131135](https://github.com/user-attachments/assets/14f9a4fe-d7a3-4217-885d-fd843e537917)
 [Befehl Commit angewandt. Path zum Projekt nicht mit Laptop User Name anian sondern mit Github User Name matsunik: https://github.com/matsunik/ccd-projekt-ani/edit/main/README.md]
+
+ccd-projekt-ani/
+├── README.md
+├── fakten.md
+└── tiere/
+    ├── hund.txt
+    ├── katze.txt
+    ├── elefant.txt
+    └── giraffe.txt
