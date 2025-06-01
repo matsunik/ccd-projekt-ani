@@ -15,10 +15,17 @@ Testprojekt, um Github und die Versionskontrolle auszuprobieren im Rahmen des BH
 [Befehl Commit angewandt. Path zum Projekt nicht mit Laptop User Name anian sondern mit Github User Name matsunik: https://github.com/matsunik/ccd-projekt-ani/edit/main/README.md]
 
 ccd-projekt-ani/
+
 ├── README.md
+
 ├── fakten.md
+
 └── tiere/
+
     ├── hund.txt
+    
     ├── katze.txt
+    
     ├── elefant.txt
+    
     └── giraffe.txt
