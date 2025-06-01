@@ -46,8 +46,5 @@ Changes not staged for commit:
 $ git add .
 $ git commit -m "Lokale Änderungen vor Pull gesichert"
 $ git pull --rebase
-$ git push´´´
+$ git push```
 
-![Screenshot 2025-06-01 165225](https://github.com/user-attachments/assets/0acc05f3-a769-444e-b6e9-2c673a8e3a4f)
-
-![Screenshot 2025-06-01 170151](https://github.com/user-attachments/assets/328c242c-b96b-4602-b245-878049e6fea9)
