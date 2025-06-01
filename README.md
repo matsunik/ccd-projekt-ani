@@ -56,3 +56,5 @@ ccd-projekt-ani/
 ## Branches erstellen und dann mergen
 
 ![Screenshot 2025-06-01 175139](https://github.com/user-attachments/assets/02638502-7b2a-45bb-815c-db613c889e68)
+
+![Screenshot 2025-06-01 175600](https://github.com/user-attachments/assets/05097f7e-b385-4fc6-90f2-e844f1256ee4)
