@@ -41,6 +41,8 @@ ccd-projekt-ani/
 
 ![Screenshot 2025-06-01 171558](https://github.com/user-attachments/assets/a0e05b65-8694-455f-a304-0c2d8b4a1d7b)
 
+[tiere.txt entfernen, um nur mit tiere-Ordner zu arbeiten. Konflikt zwischen github und lokalem Speicherstand zuerst beheben.]
+
 ###  Konflikt beim Push gelöst
 #### Die Textdateiänderung in giraffe war noch nicht committed. Daher der Konflikt zwischen dem Stand im github repositpry und der lokalen Speicherung. 
 
