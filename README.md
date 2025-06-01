@@ -100,3 +100,12 @@ PR-Link [https://github.com/matsunik/education/pull/1/commits/911354774ab0264f3f
 ![Screenshot 2025-06-01 195827](https://github.com/user-attachments/assets/386d6701-4acc-49cb-9b30-0eeb7f23aa6f)
 
 ![Screenshot 2025-06-01 195730](https://github.com/user-attachments/assets/7ea5a23e-8673-4677-ad80-0b1945bffc7b)
+
+
+Ich habe einen Pull Request mit Tier-Wissen erstellt:
+
+🔗 [Zum Pull Request #1 ](https://github.com/matsunik/education/pull/1)
+
+Oder direkt zum Commit:  
+🔎 [Commit 9113547 im PR](https://github.com/matsunik/education/pull/1/commits/911354774ab0264f3f379eedebd0054d874a4e4f)
+
