@@ -34,3 +34,20 @@ ccd-projekt-ani/
 ![Screenshot 2025-06-01 165225](https://github.com/user-attachments/assets/20eea0c9-e3e7-4183-9a0c-a7ada46247a0)
 
 [Mit git diff Textdatei ändern, Text löschen und Text hinzufügen]
+
+###  Konflikt beim Push gelöst
+#### Die Textdateiänderung in giraffe war noch nicht committed. Daher der Konflikt zwischen dem Stand im github repositpry und der lokalen Speicherung. 
+
+```powershell
+$ git status
+Changes not staged for commit:
+  modified:   tiere/giraffe.txt
+
+$ git add .
+$ git commit -m "Lokale Änderungen vor Pull gesichert"
+$ git pull --rebase
+$ git push
+
+![Screenshot 2025-06-01 165225](https://github.com/user-attachments/assets/50f3c045-2dee-43b8-8a37-a2610265ec59)
+
+![Screenshot 2025-06-01 170151](https://github.com/user-attachments/assets/1fb50d2e-1d98-4f9d-bff8-d7cab79a2671)
